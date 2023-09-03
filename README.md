@@ -8,7 +8,7 @@
 
 - 😇 How to reach me **pushpendrakumargkp@gmail.com**
 
-- 😄 Fun fact **I think I am ready**
+- 💥 Fun fact **I think I am ready**
 
 <h3 align="left">🤝Connect with me:</h3>
 <p align="left">
@@ -19,7 +19,7 @@
 <p align="left">
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="c++" width="40" height="40"/> </a> 
+    <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="c++" width="40" height="40"/> </a> 
 
   
 
