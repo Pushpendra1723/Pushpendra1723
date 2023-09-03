@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://svg2raster.fileformat.info/vlz.jsp?svg=%2Flogos%2Flinkedin%2Flinkedin-tile.svg&width=30&height=40" alt="Linkedin" width="40" height="40"/> </a> 
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Linkedin" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
