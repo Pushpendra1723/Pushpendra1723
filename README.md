@@ -6,17 +6,26 @@
 <img align="right" alt="coding" width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
 
-- 📫 How to reach me **pushpendrakumargkp@gmail.com**
+- 😇 How to reach me **pushpendrakumargkp@gmail.com**
 
-- ⚡ Fun fact **I think I am ready**
+- 😄 Fun fact **I think I am ready**
 
-<h3 align="left">Connect with me:🤝</h3>
+<h3 align="left">🤝Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/pushpendra-kumar-215378204/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Linkedin" width="40" height="40"/> </a> 
 </p>
+<h3 align="left">💻Languages:</h3>
+<p align="left">
 
-<h3 align="left">Library and Tools:</h3>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="c++" width="40" height="40"/> </a> 
+
+  
+
+  
+</p>
+<h3 align="left">🛠️Library and Tools:</h3>
 <p align="left"> 
     
   
