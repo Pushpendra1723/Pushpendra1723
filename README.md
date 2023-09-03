@@ -16,7 +16,7 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Linkedin" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Library and Tools:</h3>
 <p align="left"> 
     
   
