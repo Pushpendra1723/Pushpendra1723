@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I think I am ready**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:🤝</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/pushpendra-kumar-215378204/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Linkedin" width="40" height="40"/> </a> 
