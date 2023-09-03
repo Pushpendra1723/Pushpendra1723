@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/pushpendra-kumar-215378204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/pushpendra-kumar-215378204" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/pushpendra-kumar-215378204" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2FkMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw&tbnid=f084GhCClOHCNM&vet=12ahUKEwi6_fXg_o2BAxWH5TgGHbs_AVwQMygBegQIARBW..i&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.linkedin.android%26hl%3Den_US&docid=2b8G0Orj3IjoBM&w=512&h=512&q=linkedin&ved=2ahUKEwi6_fXg_o2BAxWH5TgGHbs_AVwQMygBegQIARBW" alt="linkedin.com/in/pushpendra-kumar-215378204" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@runtimeerror6077/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@runtimeerror6077/videos" height="30" width="40" /></a>
 </p>
 
