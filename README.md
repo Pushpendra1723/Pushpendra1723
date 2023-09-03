@@ -28,8 +28,8 @@
 </p>
 <h3 align="left">🛠️Library and Tools:</h3>
 <p align="left"> 
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+      <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a> 
  
     
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
