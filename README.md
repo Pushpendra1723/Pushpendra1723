@@ -18,6 +18,7 @@
 <h3 align="left">💻Languages:</h3>
 <p align="left">
 
+
   <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
     <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="c++" width="40" height="40"/> </a> 
 
@@ -27,10 +28,6 @@
 </p>
 <h3 align="left">🛠️Library and Tools:</h3>
 <p align="left"> 
-    
-  .
-     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  
@@ -39,7 +36,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
     
  
-
+</p>
     
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pushpendra1723&show_icons=true&locale=en&layout=compact" alt="pushpendra1723" /></p>
