@@ -3,7 +3,7 @@
 <h1 align="center">Myself Pushpendra Kumar🧑‍💻</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img align="right" alt="coding" width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
+<img align="right" alt="coding" width="550" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
 
 - 😇 How to reach me **pushpendrakumargkp@gmail.com**
@@ -18,7 +18,7 @@
 <h3 align="left">💻Languages:</h3>
 <p align="left">
 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
     <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="c++" width="40" height="40"/> </a> 
 
   
