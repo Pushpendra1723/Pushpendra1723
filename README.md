@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2FkMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw&tbnid=f084GhCClOHCNM&vet=12ahUKEwi6_fXg_o2BAxWH5TgGHbs_AVwQMygBegQIARBW..i&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.linkedin.android%26hl%3Den_US&docid=2b8G0Orj3IjoBM&w=512&h=512&q=linkedin&ved=2ahUKEwi6_fXg_o2BAxWH5TgGHbs_AVwQMygBegQIARBW" alt="Linkedin" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
