@@ -17,10 +17,19 @@
 </p>
 <h3 align="left">💻Languages:</h3>
 <p align="left">
+    <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="c++" width="40" height="40"/> </a> 
+      <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40"/> </a> 
 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40"/> </a> 
 
-  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-    <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="c++" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/js" target="_blank" rel="noreferrer">
+    <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JavaScript" width="40" height="40"/> </a> 
+
+  
+
 
   
 
