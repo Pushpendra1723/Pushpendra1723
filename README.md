@@ -39,7 +39,7 @@
       <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a> 
     <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="nodeJs" width="40" height="40"/> </a> 
+    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodeJs" width="40" height="40"/> </a> 
     
 
     
