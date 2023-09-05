@@ -14,6 +14,8 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/pushpendra-kumar-215378204/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Linkedin" width="40" height="40"/> </a> 
+    <a href="pushpendrakumargkp@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Linkedin" width="40" height="40"/> </a> 
 </p>
 <h3 align="left">💻Languages:</h3>
 <p align="left">
