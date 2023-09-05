@@ -24,8 +24,8 @@
 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="40" height="40"/> </a> 
-
-  
+    <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" height="40"/> </a> 
 
   
 
@@ -40,6 +40,10 @@
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a> 
     <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodeJs" width="40" height="40"/> </a> 
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="nodeJs" width="40" height="40"/> </a> 
+            <a href="https://www.mongodb.com/cloud/atlas/lp/try4?utm_content=rlsavisitor&utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_retarget-brand_gic-null_apac-all_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=14412646476&adgroup=131761130812&cq_cmp=14412646476&gad=1&gclid=CjwKCAjwo9unBhBTEiwAipC110c4Ic4Ce193HeMuZhOOGFinJQWYlArPhI2oI-oEBf3jnuZMNVdb7BoCy4EQAvD_BwE" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="nodeJs" width="40" height="40"/> </a> 
     
 
     
