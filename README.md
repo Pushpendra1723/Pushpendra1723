@@ -39,12 +39,17 @@
 <p align="left"> 
       <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a> 
- 
+    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="nodeJs" width="40" height="40"/> </a> 
     
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    
- 
+      <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+        <a href="    <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> " target="_blank" rel="noreferrer">
+    <img src="![image](https://github.com/Pushpendra1723/Pushpendra1723/assets/94159743/95d7a5a7-ec3c-44a0-8e49-5cb4e4416b91)
+" alt="mongodb" width="40" height="40"/> </a> 
 </p>
     
 
