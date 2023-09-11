@@ -6,9 +6,7 @@
 <img align="right" alt="coding" width="550" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
 
-- 😇 How to reach me **pushpendrakumargkp@gmail.com**
 
-- 💥 Fun fact **I think I am ready**
 
 <h3 align="left">🤝Connect with me:</h3>
 <p align="left">
