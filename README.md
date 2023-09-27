@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello 👋</h1>
 <h1 align="center">Myself Pushpendra Kumar🧑‍💻</h1>
-<h3 align="center">A passionate frontend developer and Designer.</h3>
+<h3 align="center">A passionate Frontend Developer and Designer.</h3>
 
 <img align="right" alt="coding" width="550" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
